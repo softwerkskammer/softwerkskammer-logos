@@ -2,7 +2,7 @@
 
 Hier liegen alle Logos und ihre Abwandlungen seit der SoCraTes 2011.
 
-![Softwerkskammer-Logo](Wappen%20mit%20Text/Softwerkskammer_WappenMitText.png)
+![Softwerkskammer-Logo](Wappen%20ohne%20Text/Softwerkskammer.png)
 
 [![Creative Commons Lizenzvertrag](http://i.creativecommons.org/l/by/3.0/88x31.png)](LICENSE.md)
 
