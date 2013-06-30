@@ -368,8 +368,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="136.31501"
-     inkscape:cy="151.79193"
+     inkscape:cx="336.31501"
+     inkscape:cy="311.79193"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -394,7 +394,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -459,10 +459,10 @@
        style="fill:none;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Bold"
+       style="font-size:62px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Bold"
        id="text3730"
        sodipodi:linespacing="100%"
-       transform="translate(-1.5405373,2.6730344)"><textPath
+       transform="translate(-3.5405373,4.673034)"><textPath
          xlink:href="#path3713"
          startOffset="50%"
          id="textPath3734">Softwerkskammer</textPath></text>
@@ -473,14 +473,13 @@
        id="path3739" />
     <text
        xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville"
+       style="font-size:65px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville"
        id="text3741"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7944056,-0.60738764,0.60738764,0.7944056,-329.45428,273.23902)"><textPath
+       transform="matrix(0.93193928,-0.36261436,0.36261436,0.93193928,-212.02835,129.63549)"><textPath
          xlink:href="#path3739"
-         id="textPath3745"><tspan
-   id="tspan3743"
-   style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville">Software Craftsmanship Communities in Deutschland</tspan></textPath></text>
+         id="textPath3745"
+         style="font-size:62px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville">Software Craftsmanship Communities</textPath></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#ffffff;stroke-opacity:1"
@@ -583,11 +582,11 @@
        sodipodi:cy="370.60663"
        sodipodi:rx="59.969238"
        sodipodi:ry="59.969238"
-       d="m -386.64377,370.60663 c 0,33.12009 -26.84914,59.96924 -59.96924,59.96924 -33.12009,0 -59.96923,-26.84915 -59.96923,-59.96924 0,-33.1201 26.84914,-59.96924 59.96923,-59.96924 33.1201,0 59.96924,26.84914 59.96924,59.96924 z"
-       transform="matrix(0.07510387,0,0,-0.07510387,75.030785,816.65726)" />
+       d="m -386.64377,370.60663 a 59.969238,59.969238 0 1 1 -119.93847,0 59.969238,59.969238 0 1 1 119.93847,0 z"
+       transform="matrix(0.1000513,0,0,-0.1000513,50.840283,777.2353)" />
     <path
-       transform="matrix(0.07510387,0,0,-0.07510387,467.01727,816.65726)"
-       d="m -386.64377,370.60663 c 0,33.12009 -26.84914,59.96924 -59.96924,59.96924 -33.12009,0 -59.96923,-26.84915 -59.96923,-59.96924 0,-33.1201 26.84914,-59.96924 59.96923,-59.96924 33.1201,0 59.96924,26.84914 59.96924,59.96924 z"
+       transform="matrix(0.1000513,0,0,-0.1000513,505.65519,780.40686)"
+       d="m -386.64377,370.60663 a 59.969238,59.969238 0 1 1 -119.93847,0 59.969238,59.969238 0 1 1 119.93847,0 z"
        sodipodi:ry="59.969238"
        sodipodi:rx="59.969238"
        sodipodi:cy="370.60663"
