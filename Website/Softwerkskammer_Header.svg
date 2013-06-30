@@ -13,9 +13,9 @@
    height="150"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="Softwerkskammer_Header.svg"
-   inkscape:export-filename="/Users/marc/Dropbox/Work/Logos/SoCraTes/Softwerkskammer_Header.png"
+   inkscape:export-filename="/Users/mphilipp/Repositories/softwerkskammer-logos/Website/Softwerkskammer_Header.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -374,12 +374,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5979058"
-     inkscape:cx="477.5"
+     inkscape:cx="475.58655"
      inkscape:cy="75"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1888"
+     inkscape:window-width="1680"
      inkscape:window-height="972"
      inkscape:window-x="9"
      inkscape:window-y="10"
@@ -582,7 +582,7 @@
            y="4"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Baskerville;-inkscape-font-specification:Baskerville" /></flowRegion><flowPara
          id="flowPara2882">Softwerkskammer</flowPara></flowRoot>    <flowRoot
-       transform="translate(574.36387,933.3181)"
+       transform="matrix(1.1257213,0,0,1.1257213,586.78339,928.08857)"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville"
        id="flowRoot3067"
        xml:space="preserve"><flowRegion
@@ -597,7 +597,7 @@
        xml:space="preserve"
        id="flowRoot3077"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville"
-       transform="translate(574.36387,971.99779)"><flowRegion
+       transform="matrix(1.1257213,0,0,1.1257213,586.78339,971.63112)"><flowRegion
          id="flowRegion3079"><rect
            id="rect3081"
            width="425"
@@ -605,7 +605,7 @@
            x="4"
            y="4"
            style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville" /></flowRegion><flowPara
-         id="flowPara3085">Communities in Deutschland</flowPara></flowRoot>    <flowRoot
+         id="flowPara3085">Communities</flowPara></flowRoot>    <flowRoot
        transform="translate(-67.63613,973.99779)"
        style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Italic"
        id="flowRoot3087"

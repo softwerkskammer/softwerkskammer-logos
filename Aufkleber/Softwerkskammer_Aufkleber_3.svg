@@ -448,7 +448,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -672,6 +672,6 @@
              height="65"
              width="425"
              id="rect3081" /></flowRegion><flowPara
-           id="flowPara3085">Communities in Deutschland</flowPara></flowRoot>    </g>
+           id="flowPara3085">Communities</flowPara></flowRoot>    </g>
   </g>
 </svg>
