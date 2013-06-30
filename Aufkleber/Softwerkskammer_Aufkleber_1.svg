@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Softwerkskammer_Aufkleber.svg"
+   sodipodi:docname="Softwerkskammer_Aufkleber_1.svg"
    inkscape:export-filename="/Users/mphilipp/Dropbox/Work/Logos/Softwerkskammer/Softwerkskammer_Banner.209px.png"
    inkscape:export-xdpi="80.379997"
    inkscape:export-ydpi="80.379997">
@@ -448,7 +448,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -680,7 +680,7 @@
            x="4"
            y="4"
            style="font-size:34.62168884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville" /></flowRegion><flowPara
-         id="flowPara3085">Communities in Deutschland</flowPara></flowRoot>    <rect
+         id="flowPara3085">Communities</flowPara></flowRoot>    <rect
        style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:4.27350426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3133"
        width="995.7265"
@@ -691,15 +691,15 @@
        transform="scale(-1,-1)" />
     <flowRoot
        transform="matrix(1.4812118,0,0,1.4812118,38.783145,958.49429)"
-       style="font-size:34.62168942px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Italic"
+       style="font-size:34.62168884px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Italic"
        id="flowRoot3078"
        xml:space="preserve"><flowRegion
          id="flowRegion3080"><rect
-           style="font-size:34.62168942px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville Italic"
+           style="font-size:34.62168884px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville Italic"
            y="4"
            x="4"
            height="65"
            width="425"
            id="rect3082" /></flowRegion><flowPara
-         id="flowPara3084">www.softwerkskammer.de</flowPara></flowRoot>  </g>
+         id="flowPara3084">www.softwerkskammer.org</flowPara></flowRoot>  </g>
 </svg>
