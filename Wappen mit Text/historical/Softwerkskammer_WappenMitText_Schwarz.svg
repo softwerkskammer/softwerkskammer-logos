@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Softwerkskammer_WappenMitText.svg"
-   inkscape:export-filename="/Users/mphilipp/Dropbox/Work/Logos/Softwerkskammer/Softwerkskammer_WappenMitText.png"
+   sodipodi:docname="Softwerkskammer_WappenMitText_Schwarz.svg"
+   inkscape:export-filename="/Users/mphilipp/Repositories/softwerkskammer-logos/Wappen mit Text/Softwerkskammer_WappenMitText_Schwarz.png"
    inkscape:export-xdpi="96.073471"
    inkscape:export-ydpi="96.073471">
   <defs
@@ -362,7 +362,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
@@ -394,7 +394,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -459,7 +459,7 @@
        style="fill:none;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-size:62px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Bold"
+       style="font-size:62px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville Bold"
        id="text3730"
        sodipodi:linespacing="100%"
        transform="translate(-3.5405373,4.673034)"><textPath
@@ -473,13 +473,13 @@
        id="path3739" />
     <text
        xml:space="preserve"
-       style="font-size:65px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville"
+       style="font-size:65px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Baskerville;-inkscape-font-specification:Baskerville"
        id="text3741"
        sodipodi:linespacing="125%"
        transform="matrix(0.93193928,-0.36261436,0.36261436,0.93193928,-212.02835,129.63549)"><textPath
          xlink:href="#path3739"
          id="textPath3745"
-         style="font-size:58px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville">Software Craft and Testing Communities</textPath></text>
+         style="font-size:62px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Baskerville;-inkscape-font-specification:Baskerville;fill:#ffffff">Software Craftsmanship Communities</textPath></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#ffffff;stroke-opacity:1"
@@ -576,7 +576,7 @@
     </g>
     <path
        sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3751"
        sodipodi:cx="-446.61301"
        sodipodi:cy="370.60663"
@@ -592,7 +592,7 @@
        sodipodi:cy="370.60663"
        sodipodi:cx="-446.61301"
        id="path3769"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:type="arc" />
   </g>
 </svg>
